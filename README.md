@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Game_Software_Development_2_Team_Project-darkblue?style=for-the-badge)
 
-[<img src="images/cover.png" width="100%" height="auto">]()
+[<img src="RoadOfDangun/images/cover.png" width="100%" height="auto">]()
 
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NEC9mGGMYnY)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://picturesque-screw-9a2.notion.site/20409f1ba81a801db59fe2e6143d549d?source=copy_link)
