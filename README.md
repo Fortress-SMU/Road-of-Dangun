@@ -24,7 +24,7 @@
 
 <br>
 
-## 📸 스크린샷 | Screenshots
+## 🎥 게임 플레이 시연 | Gameplay Demo
 
 <div align="center">
 
