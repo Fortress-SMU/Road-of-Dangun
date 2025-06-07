@@ -41,9 +41,9 @@
 
 | 스테이지 2 - _청룡_ |
 |:------:|
-| <img src="images/stage2Dragon.gif"/> |
+| <img src="images/stage2Dragon.gif" width="100%" height="auto"/> |
 | 화염구 & 돌진 |
-| <img src="images/stage2Lightning.gif"/> |
+| <img src="images/stage2Lightning.gif" width="100%" height="auto"/> |
 | 번개 소환 |
 
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/A_qTdIbB1ro?si=4t7LdJWvnvW3460o)
