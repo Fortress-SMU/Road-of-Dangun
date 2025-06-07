@@ -41,9 +41,9 @@
 
 | 스테이지 2 - _청룡_ |
 |:------:|
-| <img src="images/stage2Dragon.gif" width="100%" height="auto"/> |
+| <img src="images/stage2Dragon.gif"/> |
 | 화염구 & 돌진 |
-| <img src="images/stage2Lightning.gif" width="100%" height="auto"/> |
+| <img src="images/stage2Lightning.gif"/> |
 | 번개 소환 |
 
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/A_qTdIbB1ro?si=4t7LdJWvnvW3460o)
@@ -84,12 +84,12 @@
 ## 🛠️ 개발 환경 | Tech Stack
 
 | 구성 요소 | 기술 |
-|-----------|------|
-| Game Engine | Unreal Engine 5.3 |
-| Language | C++ |
-| Version Control | Git / GitHub |
-| Documentation | Notion |
-| 협업 도구 | Discord |
+|:------:|:------:|
+| Game Engine | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) |
+| Language | 	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| Version Control | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| Documentation | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
+| Communication | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) |
 
 <br>
 
