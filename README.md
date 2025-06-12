@@ -4,9 +4,11 @@
 
 ![](https://img.shields.io/badge/2025-게임_소프트웨어_개발_2_팀_프로젝트-darkblue?style=for-the-badge)
 
-</div>
-
 [<img src="images/cover.png" width="100%" height="auto">]()
+
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2O1t6u_Hxs4?si=TBok9FZMEbZSiMfQ)
+
+</div>
 
 > 환웅과 웅녀는 혼인하였고  
 > 그렇게 초대 단군이 탄생하였다.
